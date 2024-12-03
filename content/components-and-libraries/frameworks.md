@@ -83,7 +83,8 @@ Set of components + responsive layout system
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library with form self-validation and an SCSS framework integrated
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind
 - [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3
-
+- [shadcn-vue](https://www.shadcn-vue.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable
+- [radix-vue](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in Vue.
 ## Mobile UI Frameworks
 
 UI frameworks for mobile
